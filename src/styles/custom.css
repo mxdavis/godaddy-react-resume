@@ -33,3 +33,35 @@ ul.uk-navbar-nav > li > a.active {
 div.center {
  padding-left: 15%;
 }
+
+div.main{
+  background-color: #00a63f;
+  padding: 12px 5px 5px;
+  margin: 0% 10% 0%;
+}
+
+div.home{
+  background-color: #3f4fb0;
+  padding: 12px 5px 5px;
+  margin: 0% 10% 0%;
+}
+
+div.main > h1 {
+  color: white;
+  font-family: "Muli", sans-serif;
+}
+
+div.main > h2 {
+  color: white;
+  font-family: "Muli", sans-serif;
+}
+
+div.main > h3 {
+  color: white;
+  font-family: "Muli", sans-serif;
+}
+
+div.main > p {
+  color: white;
+  font-family: "Muli", sans-serif;
+}
