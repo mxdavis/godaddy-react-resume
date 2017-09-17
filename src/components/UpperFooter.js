@@ -6,7 +6,7 @@ import Blog from '../images/Blog.png'
 
 const UpperFooter = () =>  {
   return (
-      <div className="App main home">
+      <div className="App">
         <div className="green">
           <div className="text-padded">
             <span className="boxes boxes-with-right-border">
