@@ -9,6 +9,12 @@ const Footer = () =>  {
           <ul className="uk-navbar-nav fixed main-nav footer">
 
             <li className="nav-text left-spacing">
+              <NavLink to="/home">
+                Home
+              </NavLink>
+            </li>
+
+            <li className="nav-text left-spacing">
               <NavLink to="/about">
                 About
               </NavLink>
@@ -17,12 +23,6 @@ const Footer = () =>  {
             <li className="nav-text left-spacing">
               <NavLink to="/experience">
                 Experience
-              </NavLink>
-            </li>
-
-            <li className="nav-text left-spacing">
-              <NavLink to="/contact">
-                Contact
               </NavLink>
             </li>
 
