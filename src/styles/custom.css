@@ -58,9 +58,24 @@ div.main{
   padding-top: 20px;
 }
 
+div.main > h1 {
+  color: white;
+  font-family: "Muli", sans-serif;
+}
+
 
 div.text-padded > h1 {
   color: white;
+  font-family: "Muli", sans-serif;
+}
+
+div.green > div.text-padded > h3 > a {
+  color: white;
+  font-family: "Muli", sans-serif;
+}
+
+div.gray > div.text-padded > h3 > a {
+  color: #3f4fb0;
   font-family: "Muli", sans-serif;
 }
 
@@ -77,6 +92,17 @@ div.text-padded > h3 {
 
 div.text-padded > p {
   color: white;
+  font-family: "Muli", sans-serif;
+}
+
+div.dark-text > h3 {
+  color: #3f4fb0;
+  font-family: "Muli", sans-serif;
+  margin-top: 10px;
+}
+
+div.dark-text > p {
+  color: #3f4fb0;
   font-family: "Muli", sans-serif;
 }
 
