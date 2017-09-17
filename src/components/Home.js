@@ -7,7 +7,7 @@ import Flatiron from '../images/Flatiron.png'
 
 const Home = () =>  {
   return (
-      <div className="App main home">
+      <div className="App main">
 
         <div className="text-padded">
           <h1>Hi <img src={Wave} alt="wave" width='5%' height='5%'/>  I'm Malki!</h1>
@@ -17,7 +17,7 @@ const Home = () =>  {
           </h3>
          </div>
 
-        <div className="App gray">
+        <div className="gray">
           <img src={BuildingThings} alt="Building Things" width='60%'/>
         </div>
        </div>
