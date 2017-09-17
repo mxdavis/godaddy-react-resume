@@ -19,7 +19,7 @@ const About = () =>  {
             <br />
             I did a part time remote internship in Elixir/Phoenix at Yala AI.
             <br />
-            When I'm not programming you can find me hanging out with my family, taking trips, and hanging out outdoors.
+            When I'm not programming you can find me hanging out with my family, taking trips, baking, and just enjoying the outdoors.
         </h3>
         <img src={Happy} alt="happy" width='8%' height='8%'/>
       </div>
