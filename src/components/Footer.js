@@ -5,10 +5,10 @@ const Footer = () =>  {
   return (
     <div className="App footer">
       <nav className="uk-navbar">
-        <div className="uk-navbar-flip">
+        <div className="uk-navbar-flip footer-center">
           <ul className="uk-navbar-nav fixed main-nav footer">
 
-            <li className="nav-text left-spacing">
+            <li className="nav-text right-spacing">
               <NavLink to exact="/">
                 Home
               </NavLink>

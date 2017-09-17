@@ -50,12 +50,23 @@ div.footer{
 ul.footer > li > a{
   color: white;
   height: 40px;
-
 }
 
 ul.footer > li.left-spacing > a {
-  padding-left: 370px;
+  padding-left: 70%;
   padding-bottom: 5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul.footer > li.right-spacing > a {
+  padding-right: 65%;
+  padding-bottom: 5px;
+}
+
+div.footer-center > li > a {
+  text-align: center;
 }
 
 div.center {
@@ -73,6 +84,12 @@ div.main{
 div.main > h1 {
   color: white;
   font-family: "Muli", sans-serif;
+}
+
+div.App.footer > nav > div {
+  margin-left: auto;
+    margin-right: auto;
+    display: block
 }
 
 
