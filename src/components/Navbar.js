@@ -6,11 +6,11 @@ const Navbar = () =>  {
   return (
     <div className="App center">
       <nav className="uk-navbar">
-        <div className="uk-navbar-flip">
+
           <ul className="uk-navbar-nav fixed main-nav">
             <li>
               <NavLink to="/">
-                <img src={MalkiLogo} alt="MalkiDavis" />
+                <img src={MalkiLogo} alt="MalkiDavis" width="300%" height="300%" />
               </NavLink>
             </li>
 
@@ -20,20 +20,26 @@ const Navbar = () =>  {
               </NavLink>
             </li>
 
-            <li className="nav-text">
+            <li className="nav-text nav-padding">
               <NavLink to="/experience">
                 Experience
               </NavLink>
             </li>
 
-            <li className="nav-text">
-              <NavLink to="/contact">
-                Contact
-              </NavLink>
+            <li className="nav-text uk-navbar-right uk-float-right">
+              🇮🇱 <a href="tel:072-255-9098">072-255-9098</a>
+            </li>
+
+            <li className="nav-text uk-navbar-right uk-float-right">
+              🇱🇷 <a href="tel:516-986-8732">516-986-8732</a>
+            </li>
+
+            <li className="nav-text uk-navbar-right uk-float-right">
+              ✉️ <a href="mailto:md01@me.com">md01@me.com</a>
             </li>
 
           </ul>
-        </div>
+
       </nav>
     </div>
   )
