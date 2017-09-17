@@ -31,7 +31,7 @@ ul.uk-navbar-nav > li > a {
 }
 
 li.nav-padding{
-  padding-right: 20%;
+  padding-right: 230px;
 }
 
 ul.uk-navbar-nav > li > a:hover {
@@ -54,7 +54,7 @@ ul.footer > li > a{
 }
 
 ul.footer > li.left-spacing > a {
-  padding-left: 355px;
+  padding-left: 370px;
   padding-bottom: 5px;
 }
 
