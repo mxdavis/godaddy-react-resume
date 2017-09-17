@@ -5,7 +5,7 @@ import Happy from '../images/Happy.png'
 
 const About = () =>  {
   return (
-    <div className="App main home">
+    <div className="App main">
       <div className="text-padded">
         <h1>A Little About Me</h1>
         <img src={MalkiPic} alt="malki" width='40%' height='40%'/>
