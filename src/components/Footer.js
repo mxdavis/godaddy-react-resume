@@ -9,7 +9,7 @@ const Footer = () =>  {
           <ul className="uk-navbar-nav fixed main-nav footer">
 
             <li className="nav-text left-spacing">
-              <NavLink to="/">
+              <NavLink to exact="/">
                 Home
               </NavLink>
             </li>
