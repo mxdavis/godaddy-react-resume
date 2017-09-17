@@ -53,17 +53,9 @@ div.center {
 }
 
 div.main{
-  background-color: #00a63f;
-  border: 0;
-  padding-top: 20px;
-}
-
-div.home{
   background-color: #3f4fb0;
   width: 100%;
-  border: 0;
   padding-top: 20px;
-  margin-bottom: 0px;
 }
 
 
