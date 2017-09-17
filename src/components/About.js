@@ -15,7 +15,7 @@ const About = () =>  {
             <br />
             I love problem solving, tackling challenges and learning new things. I work hard and follow through on anything I start until it is completed.
             <br />
-            As a graduate of Flatiron School, I learned HTML & CSS, Ruby, Rails, SQL, JavaScript, React and Redux.
+            As a graduate of Flatiron School, I learned Ruby, Rails, JavaScript, React and Redux, SQL, HTML & CSS.
             <br />
             I did a part time remote internship in Elixir/Phoenix at Yala AI.
             <br />
