@@ -2,6 +2,8 @@ import React from 'react';
 
 import MalkiPic from '../images/MalkiPic.png'
 import Happy from '../images/Happy.png'
+import Graduate from '../images/Graduate.png'
+import Flatiron from '../images/Flatiron.png'
 
 const About = () =>  {
   return (
@@ -15,9 +17,7 @@ const About = () =>  {
             <br />
             I love problem solving, tackling challenges and learning new things. I work hard and follow through on anything I start until it is completed.
             <br />
-            As a graduate of Flatiron School, I learned Ruby, Rails, JavaScript, React and Redux, SQL, HTML & CSS.
-            <br />
-            I did a part time remote internship in Elixir/Phoenix at Yala AI.
+            I started my career as an administrative assistant, and worked my way up to head the IT department. As a recent <img src={Graduate} alt="graduate" width='3%' height='3%'/> graduate of the Flatiron School <img src={Flatiron} alt="flatiron" width='2%' height='2%'/>, and with a passion to code 👩‍💻 and learn, I'm looking forward to do the same in software development and have a future of building great things.
             <br />
             When I'm not programming you can find me hanging out with my family, taking trips, baking, and just enjoying the outdoors.
         </h3>
