@@ -6,8 +6,8 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
 import './styles/custom.css';
-import './styles/uikit.css';
 import './App.css';
+import './styles/uikit.css';
 
 ReactDOM.render(
   <BrowserRouter>
