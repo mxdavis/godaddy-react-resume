@@ -12,19 +12,19 @@ const UpperFooter = () =>  {
             <div className="uk-grid">
               <div className="uk-width-1-3 slight-padding">
                 <a href="https://www.linkedin.com/in/malki-davis/" target="_blank" rel="noopener noreferrer">
-                  <img src={Linkedin} alt="linked in" width='35%' height='35%'/>
+                  <img src={Linkedin} alt="linked in" width='20%' height='20%'/>
                 </a>
               </div>
 
               <div className="uk-width-1-3 slight-padding border-left-right">
                 <a href="https://github.com/mxdavis" target="_blank" rel="noopener noreferrer">
-                  <img src={Github} alt="github" width='35%' height='35%'/>
+                  <img src={Github} alt="github" width='20%' height='20%'/>
                 </a>
               </div>
 
               <div className="uk-width-1-3 slight-padding">
                 <a href="http://malki.rocks" target="_blank" rel="noopener noreferrer">
-                  <img src={Blog} alt="blog" width='35%' height='35%'/>
+                  <img src={Blog} alt="blog" width='20%' height='20%'/>
                 </a>
               </div>
              </div>
