@@ -17,10 +17,12 @@ const Home = () =>  {
           <h1 className="no-bottom-padding">I would love to work for <img src={GoDaddyLogo} alt="GoDaddyLogo" width='25%' height='25%'/></h1>
 
           <h3>
-            GoDaddy has an awesome community and encourages team work. I thrive from being a team player, and working in a positive and friendly atmosphere. <br/>
-            I have lots of experience working remotely: I currently am a Remote Tech Coach for Flatiron School; I am an IT Consultant for small businesses remotely; I run a weekly remote JavaScript meetup where we tackle some CodeWars together; I attended the online Flatiron School where I made many friends, and attended many online meetings, starting off our week with "Motivation Monday" and ending with "Thoughtful Thursday".
+            GoDaddy has an awesome community that encourages teamwork. I thrive in team-based environments, and working in a positive and friendly atmosphere. <br/>
+            A recent graduate of Flatiron School’s Online Program, I have a lot of experience working remotely: I am currently a Remote Tech Coach for the Flatiron School, an off-site IT Consultant for a couple of small businesses, and I run a weekly remote JavaScript meetup with friends I made at Flatiron, where we tackle problems on CodeWars together.
             <br/>
-            I love learning new things, and to be challenged. GoDaddy's innovative technology will keep me learning, and solving new problems daily. <br />If GoDaddy would hire me I look forward to a future of building great things!
+            I love learning new things, and being challenged. GoDaddy's innovative environment will keep me learning, and solving new problems.
+            <br />
+            I'm excited about the opportunity to work in such a creative atmosphere!
           </h3>
          </div>
 
