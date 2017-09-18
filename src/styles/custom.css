@@ -124,9 +124,22 @@ div.text-padded > p {
   font-family: "Muli", sans-serif;
 }
 
+div.green-text > h1 {
+  color: #00ab55;
+  font-family: "Muli", sans-serif;
+  margin-top: 10px;
+}
+
 div.dark-text > h3 {
   color: #3f4fb0;
   font-family: "Muli", sans-serif;
+  margin-top: 10px;
+}
+
+div.dark-text > h3 > a{
+  color: #3f4fb0;
+  font-family: "Muli", sans-serif;
+  text-decoration: underline;
   margin-top: 10px;
 }
 
@@ -152,26 +165,21 @@ div.gray {
   margin: 0% 20% 0%;
 }
 
-.boxes {
-  color: black;
-  margin-bottom: 50px;
-}
-
-.boxes-with-left-border > a > img{
+div.border-left-right  {
+  border-right: 1px solid #7a0087;
   border-left: 1px solid #7a0087;
   border-top-style: none!important;
-  padding-left: 120px;
 
 }
 
-.boxes-with-no-border > a > img{
-  padding-right: 120px;
-  padding-left: 120px;
+h1.no-bottom-padding{
+  margin-top: 0px;
 }
 
-.boxes-with-right-border > a > img{
-  border-right: 1px solid #7a0087;
-  border-top-style: none!important;
-  padding-right: 120px;
+div.slight-padding{
+  padding: 2%
+}
 
+div.right-padding{
+  padding-right: 2%
 }
