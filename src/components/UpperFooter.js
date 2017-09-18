@@ -9,23 +9,25 @@ const UpperFooter = () =>  {
       <div className="App">
         <div className="green">
           <div className="text-padded">
-            <span className="boxes boxes-with-right-border">
-              <a href="https://www.linkedin.com/in/malki-davis/" target="_blank" rel="noopener noreferrer">
-                <img src={Linkedin} alt="linked in" width='200px' height='200px'/>
-              </a>
-            </span>
+            <div className="uk-grid">
+              <div className="uk-width-1-3 slight-padding">
+                <a href="https://www.linkedin.com/in/malki-davis/" target="_blank" rel="noopener noreferrer">
+                  <img src={Linkedin} alt="linked in" width='50%' height='50%'/>
+                </a>
+              </div>
 
-            <span className="boxes boxes-with-no-border">
-              <a href="https://github.com/mxdavis" target="_blank" rel="noopener noreferrer">
-                <img src={Github} alt="github" width='315px' height='315px'/>
-              </a>
-            </span>
+              <div className="uk-width-1-3 slight-padding border-left-right">
+                <a href="https://github.com/mxdavis" target="_blank" rel="noopener noreferrer">
+                  <img src={Github} alt="github" width='50%' height='50%'/>
+                </a>
+              </div>
 
-            <span className="boxes boxes-with-left-border">
-              <a href="http://malki.rocks" target="_blank" rel="noopener noreferrer">
-                <img src={Blog} alt="blog" width='200px' height='200px'/>
-              </a>
-            </span>
+              <div className="uk-width-1-3 slight-padding">
+                <a href="http://malki.rocks" target="_blank" rel="noopener noreferrer">
+                  <img src={Blog} alt="blog" width='50%' height='50%'/>
+                </a>
+              </div>
+             </div>
            </div>
          </div>
        </div>
