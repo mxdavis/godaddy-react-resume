@@ -9,7 +9,7 @@ const About = () =>  {
       <div className="text-padded">
         <h1>A Little About Me</h1>
         <img src={MalkiPic} alt="malki" width='40%' height='40%'/>
-        <h3>Born and bred in New York, now living in the Jerusalem Hills in Israel.
+        <h3>Born and bred in New York, now living in the Jerusalem Hills, Israel.
            <br/>
             I'm a wife, mother, and Full stack web developer with a background in IT and a passion for coding.
             <br />
