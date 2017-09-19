@@ -13,8 +13,7 @@ const Home = () =>  {
       <div className="App main">
 
         <div className="text-padded">
-          <h1>Hi <img src={Wave} alt="wave" width='5%' height='5%'/>  I'm Malki and </h1>
-          <h1 className="no-bottom-padding">I would love to work for <img src={GoDaddyLogo} alt="GoDaddyLogo" width='25%' height='25%'/></h1>
+          <h1>Hi <img src={Wave} alt="wave" width='3%' height='3%'/>  I'm Malki and I would love to work for <img src={GoDaddyLogo} alt="GoDaddyLogo" width='15%' height='15%'/></h1>
 
           <h3>
             GoDaddy has an awesome community that encourages teamwork. I thrive in team-based environments, and working in a positive and friendly atmosphere. <br/>
