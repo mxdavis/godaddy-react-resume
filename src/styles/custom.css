@@ -6,6 +6,11 @@ ul.uk-navbar-nav > li > img {
   padding: 20;
 }
 
+nav > ul > li > a > img {
+  padding-bottom: -20px;
+  margin-bottom: -6px;
+}
+
 ul.uk-navbar-nav > li.uk-navbar-right > a {
   font-family: 'Muli';
   text-transform: none;
@@ -31,7 +36,7 @@ ul.uk-navbar-nav > li > a {
 }
 
 li.nav-padding{
-  padding-right: 230px;
+  padding-right: 330px;
 }
 
 ul.uk-navbar-nav > li > a:hover {
