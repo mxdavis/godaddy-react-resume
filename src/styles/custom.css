@@ -183,3 +183,14 @@ div.slight-padding{
 div.right-padding{
   padding-right: 2%
 }
+
+ul.center{
+  text-align: center;
+  list-style-position: inside;
+  font-size: 120%;
+  list-style-image: url('../images/godaddyIcon.png');
+}
+
+img.GoDaddyLogo {
+  padding-bottom: 1%;
+}
