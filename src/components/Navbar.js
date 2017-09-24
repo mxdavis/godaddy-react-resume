@@ -10,7 +10,7 @@ const Navbar = () =>  {
           <ul className="uk-navbar-nav fixed main-nav">
             <li>
               <NavLink to="/">
-                <img src={MalkiLogo} alt="MalkiDavis" width="300%" height="300%" />
+                <img src={MalkiLogo} alt="MalkiDavis" width="70%" height="70%" />
               </NavLink>
             </li>
 

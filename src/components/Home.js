@@ -4,7 +4,6 @@ import Portfolio from './Portfolio'
 import Languages from './Languages'
 import projects from '../data/projects'
 
-import Wave from '../images/Wave.png'
 import GoDaddyLogo from '../images/GoDaddyLogo.png'
 
 
@@ -13,7 +12,7 @@ const Home = () =>  {
       <div className="App main">
 
         <div className="text-padded">
-          <h1>Hi <img src={Wave} alt="wave" width='3%' height='3%'/>  I'm Malki and I would love to work for <img src={GoDaddyLogo} alt="GoDaddyLogo" width='15%' height='15%'/></h1>
+          <h1>Hi 👋 I'm Malki and I would love to work for <img src={GoDaddyLogo} alt="GoDaddyLogo" width='15%' height='15%'/></h1>
 
           <h3>
             GoDaddy has an awesome community that encourages teamwork. I thrive in team-based environments, and working in a positive and friendly atmosphere. <br/>
