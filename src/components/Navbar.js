@@ -26,16 +26,16 @@ const Navbar = () =>  {
               </NavLink>
             </li>
 
-            <li className="nav-text uk-navbar-right uk-float-right">
-              🇮🇱 <a href="tel:072-255-9098">072-255-9098</a>
+            <li className="nav-text uk-navbar-right uk-float-right"> <span role="img" aria-label="Israel">🇮🇱</span>
+             <a href="tel:072-255-9098">072-255-9098</a>
             </li>
 
             <li className="nav-text uk-navbar-right uk-float-right">
-              🇱🇷 <a href="tel:516-986-8732">516-986-8732</a>
+              <span role="img" aria-label="US">🇱🇷‍</span><a href="tel:516-986-8732">516-986-8732</a>
             </li>
 
             <li className="nav-text uk-navbar-right uk-float-right">
-              ✉️ <a href="mailto:md01@me.com">md01@me.com</a>
+              <span role="img" aria-label="Mail">✉️‍</span> <a href="mailto:md01@me.com">md01@me.com</a>
             </li>
 
           </ul>

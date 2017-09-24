@@ -17,7 +17,7 @@ const About = () =>  {
             <br />
             I love problem solving, tackling challenges and learning new things. I work hard and follow through on anything I start until it is completed.
             <br />
-            I started my career as an administrative assistant, and worked my way up to head the IT department. As a recent <img src={Graduate} alt="graduate" width='3%' height='3%'/> graduate of the Flatiron School <img src={Flatiron} alt="flatiron" width='2%' height='2%'/>, and with a passion to code 👩‍💻 and learn, I'm looking forward to do the same in software development and have a future of building great things.
+            I started my career as an administrative assistant, and worked my way up to head the IT department. As a recent <img src={Graduate} alt="graduate" width='3%' height='3%'/> graduate of the Flatiron School <img src={Flatiron} alt="flatiron" width='2%' height='2%'/>, and with a passion to code <span role="img" aria-label="At Computer">👩‍💻</span>‍ and learn, I'm looking forward to do the same in software development and have a future of building great things.
             <br />
             When I'm not programming you can find me hanging out with my family, taking trips, baking, and just enjoying the outdoors.
         </h3>

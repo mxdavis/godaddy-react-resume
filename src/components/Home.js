@@ -12,7 +12,7 @@ const Home = () =>  {
       <div className="App main">
 
         <div className="text-padded">
-          <h1>Hi 👋 I'm Malki and I would be a great fit for <img className="GoDaddyLogo" src={GoDaddyLogo} alt="GoDaddyLogo" width='12%' height='12%'/> on Marc's team:</h1>
+          <h1>Hi <span role="img" aria-label="Wave">👋</span> I'm Malki and I would be a great fit for <img className="GoDaddyLogo" src={GoDaddyLogo} alt="GoDaddyLogo" width='12%' height='12%'/> on Marc's team:</h1>
 
           <ul className="center">
             <li>I work against the odds. I don't give up until I figure it out!</li>
@@ -21,7 +21,7 @@ const Home = () =>  {
             <li>I'm an excellent team player and colleague.</li>
           </ul>
 
-          <h1>Google wants me but I told them that Marc and his team are a better fit 😉:</h1>
+          <h1>Google wants me but I told them that Marc and his team are a better fit <span role="img" aria-label="Wink">😉</span>:</h1>
 
           <ul className="center">
             <li>Marc's team is happy and supportive of one another.</li>
@@ -31,7 +31,7 @@ const Home = () =>  {
             <li> Marc's team has got some great programmers nearby in Jerusalem that I could meetup with.</li>
           </ul>
 
-          <h1>I need to work remotely 👩‍💻:</h1>
+          <h1>I need to work remotely <span role="img" aria-label="At Computer">👩‍💻</span>:</h1>
 
           <ul className="center">
             <li>I'd rather spend the extra 2 hours coding, than sitting in traffic.</li>
