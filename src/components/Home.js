@@ -39,7 +39,7 @@ const Home = () =>  {
             <li>I have been working remote for 2+ years, and have been very successful in this setting.</li>
             <li>My work life balance is healthier which makes me a better worker and a happier person.</li>
             <li>It gives me more job opportunities in English while living in Israel.</li>
-            <li> While remote is important, I need to feel I am working with real people, and Marc's team understands this need.</li>
+            <li> While remote is important, I need to feel I am working with real people, and Marc's team understands this.</li>
           </ul>
 
         </div>
