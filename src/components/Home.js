@@ -35,11 +35,11 @@ const Home = () =>  {
 
           <ul className="center">
             <li>I'd rather spend the extra 2 hours coding, than sitting in traffic.</li>
-            <li>I can be there for my family at the times they need while having the energy and time to give my programming job my all.</li>
+            <li>It gives me more job opportunities in English while living in Israel.</li>
             <li>I have been working remote for 2+ years, and have been very successful in this setting.</li>
             <li>My work life balance is healthier which makes me a better worker and a happier person.</li>
-            <li>It gives me more job opportunities in English while living in Israel.</li>
             <li> While remote is important, I need to feel I am working with real people, and Marc's team understands this.</li>
+            <li>I can be there for my family at the times they need while having the energy and time to give my programming job my all.</li>
           </ul>
 
         </div>
