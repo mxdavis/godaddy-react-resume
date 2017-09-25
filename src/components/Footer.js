@@ -9,7 +9,7 @@ const Footer = () =>  {
           <ul className="uk-navbar-nav fixed main-nav footer">
 
             <li className="nav-text">
-              <NavLink to exact="/">
+              <NavLink exact to="/">
                 Home
               </NavLink>
             </li>
