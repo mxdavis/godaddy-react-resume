@@ -49,12 +49,14 @@ ul.uk-navbar-nav > li > a.active {
 
 div.footer{
   background-color: #333;
-  padding-top: 5 px;
+  padding-top: 5px;
 }
 
 ul.footer > li > a{
   color: white;
   height: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 ul.footer > li.left-spacing > a {

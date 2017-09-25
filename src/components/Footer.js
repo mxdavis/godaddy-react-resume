@@ -8,19 +8,19 @@ const Footer = () =>  {
         <div className="uk-navbar-flip footer-center">
           <ul className="uk-navbar-nav fixed main-nav footer">
 
-            <li className="nav-text right-spacing">
+            <li className="nav-text">
               <NavLink to exact="/">
                 Home
               </NavLink>
             </li>
 
-            <li className="nav-text left-spacing">
+            <li className="nav-text">
               <NavLink to="/about">
                 About
               </NavLink>
             </li>
 
-            <li className="nav-text left-spacing">
+            <li className="nav-text">
               <NavLink to="/experience">
                 Experience
               </NavLink>
