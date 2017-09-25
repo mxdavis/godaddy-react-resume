@@ -21,7 +21,7 @@ const About = () =>  {
             <br />
             When I'm not programming you can find me hanging out with my family, taking trips, baking, and just enjoying the outdoors.
         </h3>
-        <img src={Happy} alt="happy" width='8%' height='8%'/>
+        <br/>
       </div>
     </div>
   )
