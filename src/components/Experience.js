@@ -47,7 +47,7 @@ const Experience = () =>  {
           <h3>Schwell Wimpfheimer & Associates, Jerusalem, Israel</h3>
           <p>System Administrator, August 2009 - October 2015</p>
           <p>
-            + Keeping the office up to date on the latest technologies, moved all infrastructure in the cloud creating a better remote.\ experience for users who frequently work out of the office, and it keeps downtime very low since there are big companies supporting the infrastructure.
+            + Keeping the office up to date on the latest technologies, moved all infrastructure in the cloud creating a better remote experience for users who frequently work out of the office, and it keeps downtime very low since there are big companies supporting the infrastructure.
             + Lowered the firm’s IT expenses (on both equipment and support) by 60%.
             + Manage 30 computers, 25 phones, and all IT related hardware for the 20 person firm located in NYC and Israel.
           </p>
