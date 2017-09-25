@@ -48,7 +48,7 @@ const Home = () =>  {
           <div className="text-padded green-text">
             <h1> Some Things I've Built</h1>
             <div className="uk-grid">
-              {projects.map(project => <Portfolio project={project}/>)}
+              {projects.map(project => <div className="uk-width-1-2 slight-padding" key={project.key}><Portfolio project={project}/></div>)}
             </div>
           </div>
          </div>
