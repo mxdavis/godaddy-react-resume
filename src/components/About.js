@@ -1,7 +1,6 @@
 import React from 'react';
 
 import MalkiPic from '../images/MalkiPic.png'
-import Happy from '../images/Happy.png'
 import Graduate from '../images/Graduate.png'
 import Flatiron from '../images/Flatiron.png'
 
