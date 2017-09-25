@@ -1,9 +1,9 @@
 {
   "name": "godaddy-react-resume",
   "version": "0.1.0",
+  "private": true,
   "proxy": "https://malki-resume.herokuapp.com/",
   "homepage": "https://malki-resume.herokuapp.com/",
-  "private": true,
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
